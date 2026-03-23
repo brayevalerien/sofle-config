@@ -2,6 +2,9 @@
 
 QMK keymap for the Sofle RGB split keyboard, built around the [Ergo-L](https://ergol.org) layout.
 
+![Ergo-L layout on Sofle 4×6](layout.svg)
+*Layout image from [ergol.org](https://ergol.org/claviers/compacts/#kbd_4x6)*
+
 ## Features
 
 - **Left OLED** — layout name, active layer, caps lock state, WPM
